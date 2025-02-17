@@ -48,6 +48,8 @@ Este curso tem como objetivo introduzir desenvolvedores ao mundo do SAP e ABAP, 
 - Aula 22: Revisão e Avaliação Final
 - 📝 **Exercício Final:** Criar um relatório ALV baseado em uma tabela customizada
 
+
+
 ## 📋 Lista de Exercícios
 - **Primeira Semana:** Aulas 1 a 7
 - **Segunda Semana:** Aula 8
@@ -57,6 +59,8 @@ Este curso tem como objetivo introduzir desenvolvedores ao mundo do SAP e ABAP, 
 - **Sexta Semana:** Aulas 20 a 22
 - **Final:** Avaliação e emissão de certificado 🎓
 
+
+
 ## 🎯 O que Você Vai Aprender?
 - Conceitos fundamentais do SAP e do mercado de trabalho
 - Criar tabelas, domínios e objetos no Data Dictionary
@@ -64,11 +68,15 @@ Este curso tem como objetivo introduzir desenvolvedores ao mundo do SAP e ABAP, 
 - Aplicar boas práticas e técnicas avançadas de desenvolvimento
 - Trabalhar com otimização de código e relatórios ALV
 
+
+
 ## 🚀 Como Contribuir
 1. Faça um **fork** do repositório.
 2. Clone o repositório na sua máquina.
 3. Crie uma **branch** com suas alterações.
 4. Submeta um **pull request** para revisão.
+
+
 
 ## 📜 Licença -> Creative Commons Attribution 4.0 International License (CC BY 4.0)
 
@@ -89,9 +97,14 @@ Desde que você atenda às seguintes condições:
 
 
 
+
+
+
+
+
 ## 💡 Contato
 Se tiver dúvidas ou quiser interagir com a comunidade, entre em contato via **Google Meet** ou envie um e-mail para o instrutor.
 
-📌 **Google Meet:** [Link para a aula](https://meet.google.com/vgy-kaqt-ern)
+📧 **Gmail:** [Enviar e-mail](mailto:christopher.nicolas.mauricio@gmail.com)
 
 🖥️ **Bons estudos e mãos à obra!** 🚀
