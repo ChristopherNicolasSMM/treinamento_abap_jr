@@ -70,6 +70,12 @@ Este curso tem como objetivo introduzir desenvolvedores ao mundo do SAP e ABAP, 
 3. Crie uma **branch** com suas alterações.
 4. Submeta um **pull request** para revisão.
 
+📜 Licença
+
+Este projeto está licenciado sob a Creative Commons Attribution (CC BY 4.0). Você é livre para compartilhar e modificar o conteúdo, desde que cite o autor original:
+
+Core criado inicialmente por: Christopher Nicolas Santa Maria Mauricio🔗 LinkedIn: Christopher Nicolas Santa Maria Mauricio📜 Licença CC BY 4.0 - Sempre citar o autor! "CNSMM"
+
 ## 💡 Contato
 Se tiver dúvidas ou quiser interagir com a comunidade, entre em contato via **Google Meet** ou envie um e-mail para o instrutor.
 
